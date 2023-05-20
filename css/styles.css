@@ -249,7 +249,7 @@ a {
 .title-agents {
   position: absolute;
   top: 50%;
-  left: -107px;
+  left: -180px;
 
   transform: translate(0, -50%);
   font-family: "Sigmar One", cursive;
